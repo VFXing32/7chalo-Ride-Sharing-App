@@ -45,7 +45,7 @@ npm install
 
 # Start the app
 npx react-native run-android
-# or
+## or
 npx react-native run-ios
 
 Backend Setup
@@ -62,11 +62,17 @@ API_BASE_URL=https://yourapiurl.com/api
 
 Backend:
 DB_HOST=localhost
+
 DB_USER=root
+
 DB_PASS=yourpassword
+
 DB_NAME=7chalo_db
+
 SENDGRID_API_KEY=your_sendgrid_key
+
 JWT_SECRET=your_secret_key
+
 FCM_SERVER_KEY=your_firebase_key
 
 ### 👨‍💻 Developer
