@@ -37,7 +37,7 @@ Update user information
 Change password
 
 # Clone the repo
-git clone https://github.com/yourusername/7chalo-app.git
+git clone https://github.com/VFXing32/7chalo-Ride-Sharing-App
 cd 7chalo-app
 
 # Install dependencies
